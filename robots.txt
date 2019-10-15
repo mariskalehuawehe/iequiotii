@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eyaequujo.wonderbooks.de/sitemap.xml
